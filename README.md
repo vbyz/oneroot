@@ -24,5 +24,7 @@ bash <(curl -sSL https://cdn.jsdelivr.net/gh/ygkkk/oneroot/root.sh)
 
 提示：密码不要设置得过于简单，容易被破解。如有密钥文件要保存好，以防万一！
 
+甬哥YouTube频道：https://bit.ly/3zGc8fb
 
+甬哥电报群：https://bit.ly/3jy5K46
 
